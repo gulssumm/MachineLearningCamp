@@ -45,7 +45,7 @@ The most number of books is in 2010 and it is decreasing
 
 ## Improvement
 - I used log transformation of price and raised number of clusters
-![alt text](<Ekran görüntüsü 2024-09-19 223211.png>)
+c:\Users\21180\ML_bootcamp\MachineLearningCamp\pictures\Ekran görüntüsü 2024-09-19 222730.png
 
 ## Model Evaluation
 - To use unsupervised learning model, silhouette score is the best
