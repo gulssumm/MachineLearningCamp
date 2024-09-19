@@ -52,3 +52,8 @@ The most number of books is in 2010 and it is decreasing
 - Silhouette Scores for each fold: [0.5164488719469142, 0.5404159662452475, 0.5422671970951595, 0.5373777055169642, 0.545220299684004]
 Average Silhouette Score: 0.5363460080976579
 - The clusters are well separated
+
+## Kaggle Notebooks Links
+https://www.kaggle.com/code/glsmetinzl/ml-gulsum-cetinozlu-supervised/notebook
+
+https://www.kaggle.com/code/glsmetinzl/ml-gulsum-cetinozlu-unsupervised
